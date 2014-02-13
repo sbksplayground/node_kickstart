@@ -1,0 +1,15 @@
+{
+  "name": "examples",
+  "version": "0.0.0",
+  "description": "",
+  "main": "callbacks.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "promise": "~4.0.0",
+    "async": "~0.2.10"
+  }
+}
